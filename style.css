@@ -24,6 +24,10 @@ body{
   height: 50%;
   background-color:red;
 }
+.center{
+  padding-left: 30px;
+
+}
 .img-one{
   height: 300px;
   width:100%;
