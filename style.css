@@ -36,7 +36,7 @@ h1{
   background-color:blue;
   font-size: 70px;
   font-style: bold;
-  padding-left: 90px;
+  padding-left: 60px;
   padding-top: 30px;
   position: center;
 }
@@ -44,7 +44,7 @@ h1{
 .img-two{
   margin: 50px;
   height: 150px;
-  width: 35%;
+  width: 38%;
   position: left;
   
 }
@@ -52,7 +52,7 @@ h1{
 .img-tree{
   margin: 50px;
   height: 150px;
-  width: 35%;
+  width: 38%;
   position:right;
 }
 .img-for{
