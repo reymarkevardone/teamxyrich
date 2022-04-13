@@ -43,7 +43,7 @@ h1{
 .img-two{
   margin: 50px;
   height: 150px;
-  width: 40%;
+  width: 35%;
   position: left;
   
 }
@@ -51,7 +51,7 @@ h1{
 .img-tree{
   margin: 50px;
   height: 150px;
-  width: 40%;
+  width: 35%;
   position:right;
 
 }
@@ -72,4 +72,11 @@ h1{
   background-size: 100%;
   background-repeat: no-repeat;
 }
-
+.sced{
+color: red;
+  background-color:blue;
+  font-size: 60px;
+  font-style: bold;
+  padding-top: 30px;
+  position: center;
+}
