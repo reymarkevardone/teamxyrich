@@ -40,7 +40,7 @@ h1{
   background-color:blue;
   font-size: 70px;
   font-style: bold;
-  padding-left: 30px;
+  padding-left: 0px;
   padding-top: 30px;
   position: center;
 }
@@ -63,13 +63,13 @@ h1{
 .img-for{
   margin:0px;
   height: 400px;
-  width: 90%;
+  width: 100%;
   position: center;
 }
 .img-five{
   margin:0px;
   height: 300px;
-  width: 90%;
+  width: 100%;
   position: center;
 }
 .center{
