@@ -5,101 +5,75 @@
 }
 body{
   background-color: black;
-  background-image: url('bodybg.jpeg');
-  background-repeat: no-repeat;
-  background-size: 100%;
+  
 }
 .all{
-  height: 100%;
+  height: 900px;
   width: 100%;
-  background-image:transparent;
+  background-image: url('bluebg.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 10px;
   border: 3px solid gold;
-}
-.two{
-  background-image: transparent;
-  
 }
 .one{
   width: 100%;
   height: 50%;
   background-color:red;
 }
-.center{
-  padding-left: 60px;
-
-}
-.img-one{
-  height: 150px;
-  width:100%;
-  margin-bottom: 10px;
-  
-}
-
 h1{
-  color: red;
-  background-color:blue;
-  font-size: 26px;
-  font-family: Sans-Serif,Arial;
-  position: center;
-  padding-bottom: 10px;
-  padding-top: 10px;
+  font: bold;
+  color: pink;
+  padding-top: 40px;
+  padding-left: 120px;
+  font-family: Times New Roman;
+  font-size: 100px;
 }
 
-.img-two{
-  margin: 0px;
-  height: 150px;
-  width: 100%;
+.img-one{
+  padding-top: 30px;
+  padding-left: 30px;
+  height: 450px;
+  width: 94%;
+  position: bottom;
   
 }
-
-.img-tree{
-  margin: 0px;
-  height: 150px;
+.two{
+background-color: white;
+}
+.img-two{
+  margin: 50px;
+  height: 30%;
+  width: 90%;
+  position: center;
+}
+.imgo{
+  height: 400px;
+  width: 400px;
+  padding-left: 30%;
+}
+.tree{
   width: 100%;
-
+  height: 500px;
+  background-image: url('bg.png');
+  background-repeat-x: no-repeat;
+  background-size: 100%;
+  border: 3px solid blue;
+}
+h2{
+  font: bold;
+  color: gold;
+  padding-top: 40px;
+  font-family: Times New Roman;
+  font-size: 50px;
+  text-align: center;
+}
+.for{
+background-color: pink;
 }
 .img-for{
-  margin:0px;
-  padding-bottom: 20px;
-  height: 150px;
-  width: 100%;
-}
-.img-forb{
-  margin:0px;
-  padding-bottom: 20px;
-  height: 150px;
-  width: 100%;
-  
-}
-  
-.img-five{
-  margin:0px;
-  height: 100px;
-  width: 100%;
-  position: center;
-}
-
-.amara{
-  margin:0px;
-  height: 100px;
-  width: 100%;
-  position: center;
-}
-.imot{
-  margin:0px;
-  height: 100px;
-  width: 100%;
-  position: center;
-}
-.kulantro{
-  margin:0px;
-  height: 100px;
-  width: 100%;
-  position: center;
-}
-.tagasipat{
-  margin:0px;
-  height: 100px;
-  width: 100%;
+  margin: 50px;
+  height: 30%;
+  width: 90%;
   position: center;
 }
